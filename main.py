@@ -22,7 +22,7 @@ num2 = float(input("Enter the second number: "))
 
 
 
-
+num = 1
 
 
 
