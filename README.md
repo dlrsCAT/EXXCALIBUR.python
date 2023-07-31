@@ -2,7 +2,7 @@
 
 👩‍💻👨‍💻 🖥✔ Usage
 
-🖥 python main.py
+🖥 🐍 main.py
 
 ❓ ⁉‼ Help
 
