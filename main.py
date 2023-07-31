@@ -14,3 +14,14 @@ def subtract(x, y):
 # Define the function to perform multiplication
 def multiply(x, y):
     return x * y
+
+
+# Perform the operation based on user input
+if operation == "+":
+    print(num1, "+", num2, "=", add(num1, num2))
+elif operation == "-":
+    print(num1, "-", num2, "=", subtract(num1, num2))
+elif operation == "*":
+    print(num1, "*", num2, "=", multiply(num1, num2))
+elif operation == "/":
+    print(num1, "/", num2, "=", divide(num1, num2))
