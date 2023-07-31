@@ -15,6 +15,8 @@ def subtract(x, y):
 def multiply(x, y):
     return x * y
 
+# Ask the user for the first number
+num1 = float(input("Enter the first number: "))
 
 
 # Ask the user for the second number
