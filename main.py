@@ -15,6 +15,9 @@ def subtract(x, y):
 def multiply(x, y):
     return x * y
 
+# Ask the user for the operation to perform
+operation = input("Enter the operation (+, -, *, /): ")
+
 
 # Perform the operation based on user input
 if operation == "+":
