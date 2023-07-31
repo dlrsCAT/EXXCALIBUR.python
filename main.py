@@ -15,6 +15,13 @@ def subtract(x, y):
 def multiply(x, y):
     return x * y
 
+
+
+# Ask the user for the second number
+num2 = float(input("Enter the second number: "))
+
+
+
 # Ask the user for the operation to perform
 operation = input("Enter the operation (+, -, *, /): ")
 
