@@ -5,3 +5,12 @@ def main():
 # Define the function to perform addition
 def add(x, y):
     return x + y
+
+
+# Define the function to perform subtraction
+def subtract(x, y):
+    return x - y
+
+# Define the function to perform multiplication
+def multiply(x, y):
+    return x * y
