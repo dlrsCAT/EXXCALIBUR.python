@@ -27,7 +27,6 @@ num2 = float(input("Enter the second number: "))
 
 
 
-
 operation = input("Enter the operation (+, -, *, /): ")
 
 if operation == "+":
